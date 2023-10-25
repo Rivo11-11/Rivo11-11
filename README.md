@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Rivo11-11 (Rafik)
-- 👀 I’m interested in programming (mobile developpement) and Data Science
-- 🌱 I’m currently On a roadmap in my Data Analysis and Data Science Journey
+- 👀 I’m interested in  Data Science,Data Analysis and ML
+- Passionate about problem solving on Leetcode
+- Check my profile : [Here](https://leetcode.com/Rivo11/)
+- 🌱 I’m currently a senior in Faculty of Engineering,Computer Department, Alexandria University (Egypt)
 - 📫 How to reach me via my email:rafik11111@yahoo.com
 
